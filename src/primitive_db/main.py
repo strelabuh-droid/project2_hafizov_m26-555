@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Entry point for the first interactive version."""
+"""Entry point for both console commands and module execution."""
 
-from primitive_db.engine import welcome
+from primitive_db.engine import run
 
 
 def main():
-    """Start the welcome loop."""
-    welcome()
+    """Start the database application."""
+    run()
 
 
 if __name__ == "__main__":
