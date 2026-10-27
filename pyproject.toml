@@ -1,6 +1,6 @@
 [project]
 name = "primitive-db"
-version = "0.1.0"
+version = "0.2.0"
 description = "Учебная консольная база данных с хранением в JSON"
 readme = "README.md"
 authors = [{name = "Артур Хафизов"}]
