@@ -109,19 +109,19 @@ Twine проверяет метаданные локально; публикац
 
 [![asciicast][tables-preview]][tables-demo]
 
-[tables-preview]: https://asciinema.org/a/gDFdFXkrxIvcaNdY.svg
+[tables-preview]: https://asciinema.org/a/gDFdFXkrxIvcaNdY.png
 [tables-demo]: https://asciinema.org/a/gDFdFXkrxIvcaNdY
 
 CRUD операции
 
 [![asciicast][crud-preview]][crud-demo]
 
-[crud-preview]: https://asciinema.org/a/cyXrAnPKm16pXEv4.svg
+[crud-preview]: https://asciinema.org/a/cyXrAnPKm16pXEv4.png
 [crud-demo]: https://asciinema.org/a/cyXrAnPKm16pXEv4
 
 Полный цикл и декораторы
 
 [![asciicast][final-preview]][final-demo]
 
-[final-preview]: https://asciinema.org/a/TpDLeCvlYY4ZtZx2.svg
+[final-preview]: https://asciinema.org/a/TpDLeCvlYY4ZtZx2.png
 [final-demo]: https://asciinema.org/a/TpDLeCvlYY4ZtZx2
